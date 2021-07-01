@@ -19,4 +19,4 @@ Now I'm ready to join a new team and get the ball rolling!!
 <a href="https://www.linkedin.com/in/juliamersingortiz/"><img img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:julia.mersing.ortiz@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
--->
+
