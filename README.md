@@ -1,16 +1,23 @@
 ### Hi there 👋
 
 <!--
-**JuliaMersing/JuliaMersing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Julia and I am a junior Front-End developer.
 
-Here are some ideas to get you started:
+Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very excited to see how far I still have to go!! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I've always work in multi-lingual and multi-cultural environments, where I have been able to develop and demonstrate transferable skills as well as to maintain the highest standards in communication and reporting.  
+
+Very keen to develop myself further mejor que how far I still have to go.
+
+### I'm currently:
+
+- Improving my JavaScript and React skills
+- Working on my portfolio
+- Learning BackEnd
+
+### Let's get in touch:
+
+<a href="https://www.linkedin.com/in/juliamersingortiz/"><img img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:julia.mersing.ortiz@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 -->
