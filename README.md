@@ -2,7 +2,7 @@
 
 My name is Julia and I am a junior Front-End developer.
 
-Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am Very keen to develop myself further.
+Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very keen to develop myself further.
 
 I've always work in multi-lingual and multi-cultural environments, where I have been able to develop and demonstrate transferable skills as well as to maintain the highest standards in communication and reporting.  
 
