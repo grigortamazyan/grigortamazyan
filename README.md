@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 My name is Julia and I am a junior Front-End developer.
 
 Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very excited to see how far I still have to go!! 
