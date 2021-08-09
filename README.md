@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Julia and I am a junior Front-End developer.
+My name is Grigor and I am a junior Front-End developer.
 
 Curious and always willing to learn, I am starting this new professional chapter of my proffesional life and I am very keen to develop myself further.
 
@@ -55,7 +55,7 @@ Now I'm ready to join a new team and get the ball rolling!!
 
 ### Let's get in touch:
 
-<a href="https://www.linkedin.com/in/juliamersingortiz/"><img img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:julia.mersing.ortiz@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gtamazya/"><img img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:grigtm@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
